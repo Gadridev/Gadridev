@@ -28,7 +28,7 @@ const gadri = {
   name    : "Gadri Mohamed",
   role    : "Full-Stack Developer",
   location: "Morocco 🇲🇦",
-  learning: ["React.js", "Python"],
+  learning: ["system design", "clean code"],
   askMe   : ["React", "JavaScript", "Laravel", "PHP", "Python"],
   funFact : "I'm funny — not just in code 😄",
   contact : "gadrimohamed8@gmail.com"
